@@ -196,7 +196,6 @@ DMS_Use_Map_Config = true;	// Whether or not to use config overwrites specific t
 											["lost_battalion",4],
 											["behindenemylines",0],
 											["mercbase",0]
-
 										];
 	
 
