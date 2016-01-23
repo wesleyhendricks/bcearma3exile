@@ -180,31 +180,23 @@ DMS_Use_Map_Config = true;	// Whether or not to use config overwrites specific t
 
 	DMS_BanditMissionTypes =			[							//	List of missions with spawn chances. If they add up to 100%, they represent the percentage chance each one will spawn
 											["donthasslethehoff",5],
-											["bandits",5],
-<<<<<<< HEAD
+											["bandits",7],
 											["bauhaus",0],
-=======
-											["bauhaus",5],
->>>>>>> origin/master
-											["cardealer",5],
-											["humanitarian",5],
+											["cardealer",7],
+											["humanitarian",6],
 											["foodtransport",5],
 											["blackhawkdown",4],
-											["construction",4],
+											["construction",5],
 											["walmart",4],
 											["mercenaries",4],
 											["guntransport",4],
 											["beertransport",3],
 											["roguenavyseals",3],
-											["thieves",2],
-											["lost_battalion",2],
-<<<<<<< HEAD
+											["thieves",3],
+											["lost_battalion",4],
 											["behindenemylines",0],
 											["mercbase",0]
-=======
-											["behindenemylines",2],
-											["mercbase",1]
->>>>>>> origin/master
+
 										];
 	
 
