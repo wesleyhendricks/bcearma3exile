@@ -45,7 +45,7 @@ _difficulty = "hardcore";
 
 
 // Create AI
-_AICount = 5 + (round (random 2));
+_AICount = 4 + (round (random 3));
 
 _group =
 [

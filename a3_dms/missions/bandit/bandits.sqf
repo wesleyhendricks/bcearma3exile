@@ -45,7 +45,7 @@ _difficulty = "moderate";
 
 
 // Create AI
-_AICount = 4 + (round (random 2));
+_AICount = 3 + (round (random 2));
 
 _group =
 [
